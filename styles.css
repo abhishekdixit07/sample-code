@@ -1,11 +1,6 @@
-container {
-  width: 200px;
-  background-color: purple;
-}
-#heading {
-  font-size: 20px;
-  color: white;
-  text-decoration: underline;
+
+h1{
+  color:blue;
 }
 /* testing testing */
 /* Your CSS Code here. */
